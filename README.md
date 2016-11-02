@@ -9,3 +9,5 @@ I'm the team right now - this didn't change yet
 
 ## setup & requirements
 we still need a computer and internet connection
+
+## Gabriel has been here. This fork is altered
