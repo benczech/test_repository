@@ -1,11 +1,11 @@
 # test_repository
-this is a first test repository
+this is a copy of the 1st test repository
 
 ## about
-this is text about my test_repo
+this is updated text about my test_repo
 
 ## team
-I'm the team right now
+I'm the team right now - this didn't change yet
 
 ## setup & requirements
-we need a computer and internet connection
+we still need a computer and internet connection
