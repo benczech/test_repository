@@ -15,4 +15,5 @@ Still no other team members have joint.
 we still need a computer and internet connection.
 
 
-
+## history
+this is a completely revamped version. origin in branch. let's hope merging will work..
